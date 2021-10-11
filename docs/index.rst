@@ -1,4 +1,4 @@
-# Como Acessar o Desktop Virtual a partir do Windows
+Como Acessar o Desktop Virtual a partir do Windows
 ====================================================
 
 **OBS.: Antes de acessar o desktop virtual é necessário instalar o Citrix Receiver no Windows.**
