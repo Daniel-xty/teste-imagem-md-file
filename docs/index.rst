@@ -7,5 +7,7 @@ Como Acessar o Desktop Virtual a partir do Windows
 
 ![Image 1](../img/acesso_desk_virtual_07.png)
 
+This is an [example link](http://example.com/ "With a Title").
+
 2. Agora é só curtir
 
